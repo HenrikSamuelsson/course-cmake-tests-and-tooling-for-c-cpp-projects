@@ -8,4 +8,4 @@ Notes on the course [CMake, Tests and Tooling for C/C++ Projects](https://www.ud
 
 Will use [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) edition for this course.
 
-Note that when installing you manually need to choose the Desktop development with C++ option on the Workloads tab. This is to get a set of C/C++ tools to be used in the course.
+Important note is that when installing you manually need to choose the *Desktop development with C++* option found on the *Workloads* tab. This is to get a set of C/C++ tools to be used in the course.
